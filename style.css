@@ -1,0 +1,64 @@
+body{
+    background-color: rgba(250, 235, 215, 0.644)
+}
+#heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+
+}
+#personalinfo{
+    width: 30%;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 20px;
+    border: 2px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+}
+#profile-picture{
+    width: 280px;
+    height: 200px;
+    border-radius: 5%;
+
+}
+#skills{
+    margin-top: 40px;
+    margin-bottom: 5px;
+    font-size: 30px;
+}
+li{
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-align: left;
+}
+#about{
+    margin-top: 30px;
+    padding: 20px;
+}
+#innerdiv{
+    display: flex;
+}
+h2{
+    text-decoration: underline;
+}
+p{
+    font-size: 17px;
+}
+.linkimgs{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
